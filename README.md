@@ -1,5 +1,5 @@
 # Weakly Supervised / Unsupervised / Self Supervised Paper Collections
-
+This repo is to collect the interesting papers in learning with less supervision.
 ## 1. Weakly Supervised Methods:
 As Zhi-Hua Zhou claimed, Weakly supervised methods can be distinguished into 3 kinds:
 1. Incomplete supervision, where only a subset of training data is given with labels.
