@@ -7,7 +7,9 @@ As Zhi-Hua Zhou claimed, Weakly supervised methods can be distinguished into 3 k
 3. Inaccuate supervision, where the given labels are not always ground-truth
 
 ### 1.1 Incomplete supervision ( Semi-Supervisied )
-
+1. Mixmatch
+2. UDA
+3. 
 
 ### 1.2 Inexact supervision ( Multiple Instance Learning )
 #### 1.2.1 Generic Methods
@@ -29,3 +31,8 @@ Recommened List in Google Sheet (Written in Chinese) [link](https://docs.google.
 
 
 ## 3. Self-Supervised Methods:
+### 3.1 in Image-Level:
+1. simCLR
+2. MoCo
+3. 
+### 3.2 in Video-Level:
