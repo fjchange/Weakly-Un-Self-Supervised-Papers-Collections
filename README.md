@@ -21,7 +21,7 @@ As Zhi-Hua Zhou claimed, Weakly supervised methods can be distinguished into 3 k
 #### 1.2.4 in Image Classification
 
 ### 1.3 Inaccurate supervision ( Label Noise Learning )
-Recommened List in Google Sheet (Written in Chinese) (link)[https://docs.google.com/spreadsheets/d/130oiMLRnYHE0YFmULx_SMrHxc3i2CxtGbdxayt4avDc/edit#gid=0]
+Recommened List in Google Sheet (Written in Chinese) [link](https://docs.google.com/spreadsheets/d/130oiMLRnYHE0YFmULx_SMrHxc3i2CxtGbdxayt4avDc/edit#gid=0)
 
 
 ## 2. Unsupervised Methods:
