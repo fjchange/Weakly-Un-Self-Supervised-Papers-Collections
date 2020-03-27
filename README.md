@@ -9,7 +9,8 @@ As Zhi-Hua Zhou claimed, Weakly supervised methods can be distinguished into 3 k
 ### 1.1 Incomplete supervision ( Semi-Supervisied )
 1. Mixmatch
 2. UDA
-3. 
+3. Mean Teacher
+3. Temporal Expo
 
 ### 1.2 Inexact supervision ( Multiple Instance Learning )
 #### 1.2.1 Generic Methods
@@ -24,6 +25,7 @@ As Zhi-Hua Zhou claimed, Weakly supervised methods can be distinguished into 3 k
 
 ### 1.3 Inaccurate supervision ( Label Noise Learning )
 Recommened List in Google Sheet (Written in Chinese) [link](https://docs.google.com/spreadsheets/d/130oiMLRnYHE0YFmULx_SMrHxc3i2CxtGbdxayt4avDc/edit#gid=0)
+1. Learning to Learn from Noisy Label Data. CVPR 19
 
 
 ## 2. Unsupervised Methods:
