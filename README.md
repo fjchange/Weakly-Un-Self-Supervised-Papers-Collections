@@ -15,6 +15,7 @@ As Zhi-Hua Zhou claimed, Weakly supervised methods can be distinguished into 3 k
 ### 1.2 Inexact supervision ( Multiple Instance Learning )
 #### 1.2.1 Generic Methods
 1. Attention-based Deep Instance Learning, ICML 2018.
+2. Multiple instance learning with graph neural networks. ICMLW 2019.
 #### 1.2.2 in Object Detection
 1. Instance-level label propagation with multi-instance learning, IJCAI 17
 2. C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection, CVPR 19
