@@ -1,13 +1,13 @@
 # 1.2 Inexact supervision ( Multiple Instance Learning )
 ## 1.2.1 Generic Methods
 MIL algorithms can be splited into three kinds, instance-space, bag-space, embedding-space, the last two categories perform better, as [2] claimed.
-1. Multiple instance learning for sparse positive bags, ICML 2007.
+1. __Multiple instance learning for sparse positive bags, ICML 2007.__
  ( direct constraint the positive bags to have at least one positive instance )
-2. Attention-based Deep Instance Learning, ICML 2018.
+2. __Attention-based Deep Instance Learning, ICML 2018.__
  ( apply Attention to MIL )
-3. Multiple instance learning with graph neural networks. ICMLW 2019.
+3. __Multiple instance learning with graph neural networks. ICMLW 2019.__
  ( apply GNN to MIL )
-4. Monte-Carlo Sampling applied to Multiple Instance Learning for Whole Slide Image Classification, MIDL 2018. ( How to select the less but effective instances to form a bag from extremely large number of instance candidates )
+4. __Monte-Carlo Sampling applied to Multiple Instance Learning for Whole Slide Image Classification, MIDL 2018.__ ( How to select the less but effective instances to form a bag from extremely large number of instance candidates )
 
 ## 1.2.2 in Object Detection
 1. Relaxed Multiple-Instance SVM with Application to Object Discovery, ICCV 15. 
