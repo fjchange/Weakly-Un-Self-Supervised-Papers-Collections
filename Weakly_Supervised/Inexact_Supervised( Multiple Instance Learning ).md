@@ -7,6 +7,8 @@ MIL algorithms can be splited into three kinds, instance-space, bag-space, embed
  ( apply Attention to MIL )
 3. Multiple instance learning with graph neural networks. ICMLW 2019.
  ( apply GNN to MIL )
+4. Monte-Carlo Sampling applied to Multiple Instance Learning for Whole Slide Image Classification, MIDL 2018. ( How to select the less but effective instances to form a bag from extremely large number of instance candidates )
+
 ## 1.2.2 in Object Detection
 1. Relaxed Multiple-Instance SVM with Application to Object Discovery, ICCV 15. 
  ( treat the positiviness of instance as a continuous variable )
@@ -17,3 +19,4 @@ MIL algorithms can be splited into three kinds, instance-space, bag-space, embed
 ## 1.2.3 in Temporal Action Localization
 
 ## 1.2.4 in Image Classification
+
