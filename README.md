@@ -42,6 +42,9 @@ Recommened List in Google Sheet (Written in Chinese) [link](https://docs.google.
 
 
 ## 3. Self-Supervised Methods:
+### 3.0 Surveys
+1. Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey. TPAMI 2020.
+
 ### 3.1 in Image-Level:
 1. simCLR.   __Contrastive Learning__
 2. MoCo.   __Contrastive Learning__
