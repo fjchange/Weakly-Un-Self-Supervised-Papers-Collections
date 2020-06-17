@@ -43,7 +43,8 @@ Recommened List in Google Sheet (Written in Chinese) [link](https://docs.google.
 
 ## 3. Self-Supervised Methods:
 ### 3.1 in Image-Level:
-1. simCLR
-2. MoCo
-3. 
+1. simCLR. __Contrastive Learning__
+2. MoCo. __Contrastive Learning__
+3. PILR. Self-Supervised Learning of Pretext-Invariant Representations. CVPR 2020. [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.pdf)
+
 ### 3.2 in Video-Level:
