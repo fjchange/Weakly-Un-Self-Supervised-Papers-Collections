@@ -50,6 +50,10 @@ Recommened List in Google Sheet (Written in Chinese) [link](https://docs.google.
 5. BigBiGAN
 6. Rotation.
 7. NPID++.
+8. CPC
+
 
 
 ### 3.2 in Video-Level:
+1. CDC
+2. 
